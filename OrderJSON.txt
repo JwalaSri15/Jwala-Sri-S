@@ -1,0 +1,32 @@
+[
+   {
+      "name": "JwalaSri",
+      "email": "jwala@student.tce.edu",
+      "phone_no": "6379972220",
+      "delivery": "Chennai"
+   },
+   {
+      "name": "Shobika",
+      "email": "shobika@student.tce.edu",
+      "phone_no": "6379677820",
+      "delivery": "Madurai"
+   },
+   {
+      "name": "Sangavi",
+      "email": "sangavi@student.tce.edu",
+      "phone_no": "9500067822",
+      "delivery": "Chennai"
+   },
+   {
+      "name": "Kavina",
+      "email": "kavina@student.tce.edu",
+      "phone_no": "9486432155",
+      "delivery": "Madurai"
+   },
+   {
+      "name": "Logesh",
+      "email": "logesh@student.tce.edu",
+      "phone_no": "9443126755",
+      "delivery": "Chennai"
+   }
+]
